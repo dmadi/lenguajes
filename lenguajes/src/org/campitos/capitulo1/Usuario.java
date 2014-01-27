@@ -11,5 +11,9 @@ package org.campitos.capitulo1;
  * @author campitos
  */
 public class Usuario {
+    String nombre;
+    String apellidoP;
+    String apellidoM;
+    Integer edad;
     
 }

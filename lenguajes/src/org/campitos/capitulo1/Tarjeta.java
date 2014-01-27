@@ -11,5 +11,7 @@ package org.campitos.capitulo1;
  * @author campitos
  */
 public class Tarjeta {
-    
+    String nombre;
+    String material;
+    String color;
 }

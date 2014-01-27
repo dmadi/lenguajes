@@ -11,5 +11,7 @@ package org.campitos.capitulo1;
  * @author campitos
  */
 public class Imagen {
-    
+  String nombre;  
+  String tipo;  
+  String tamaño;
 }
