@@ -13,5 +13,5 @@ package org.campitos.capitulo1;
 public class Imagen {
   String nombre;  
   String tipo;  
-  String tamaño;
+  String tamano;
 }
